@@ -1,0 +1,7 @@
+Part 1
+	bullet 1
+		-> why the data is scaled between 0 and 16?
+	bullet 2
+		-> I changed max_iter to 1000
+
+Explenations:
